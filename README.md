@@ -13,5 +13,7 @@ I refactored this site by first reorganizing the structure, aligning elements to
 8.  Consolidated the redundant commands for .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img
 9.  Consolidated the redundant commands for .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
 
+URL: https://jsouth75.github.io/refactor/
+GitHub link: https://github.com/jsouth75/refactor
 
 ![screenshot of refactor](./assets/images/Screenshot-1.png)
